@@ -38,7 +38,7 @@ To install the project on your computer, you can use the "Code" button and follo
 - Write ``` git clone ``` and paste the url. As follows:
 
 ``` 
-git clone https://github.com/Santiago-Baron-Zuleta/AEROLINEA-VIRTUAL-DEL-ECUADOR.git
+git clone https://github.com/santiagobaronz/AEROLINEA-VIRTUAL-DEL-ECUADOR.git
 ```
 
 ### 2️⃣ Download ZIP
@@ -49,9 +49,5 @@ git clone https://github.com/Santiago-Baron-Zuleta/AEROLINEA-VIRTUAL-DEL-ECUADOR
 
 ## Authors 🦸‍♀️
 
-- Santiago Baron Zuleta - *Project creator* [Santiago-Baron-Zuleta](https://github.com/Santiago-Baron-Zuleta)
+- Santiago Baron Zuleta - *Project creator* [Santiago-Baron-Zuleta](https://github.com/santiagobaronz)
 
-## Social Media 🔮
-
-- [Twitch](https://www.twitch.tv/doctorbaronn) - Streams almost every day
-- [Youtube](https://www.youtube.com/c/DoctorBaron) - I upload the streams here
